@@ -1,0 +1,8 @@
+br\com\rmenezes\gerenciadorEnderecos\service\EnderecoService.class
+br\com\rmenezes\gerenciadorEnderecos\service\impl\EnderecoServiceImpl.class
+br\com\rmenezes\gerenciadorEnderecos\config\AppWebConfiguration.class
+br\com\rmenezes\gerenciadorEnderecos\controllers\ServicesController.class
+br\com\rmenezes\gerenciadorEnderecos\model\Endereco.class
+br\com\rmenezes\gerenciadorEnderecos\repository\EnderecoRepository.class
+br\com\rmenezes\gerenciadorEnderecos\config\ServletMVC.class
+br\com\rmenezes\gerenciadorEnderecos\controllers\HomeController.class

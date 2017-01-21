@@ -1,0 +1,16 @@
+br\com\rmenezes\gerenciadoEnderecos\business\EnderecoBusiness.class
+br\com\rmenezes\gerenciadoEnderecos\business\EnderecoBusinessImpl.class
+br\com\rmenezes\gerenciadorEnderecos\connection\ManagerConnection.class
+br\com\rmenezes\gerenciadorEnderecos\service\impl\EnderecoServiceImpl.class
+br\com\rmenezes\gerenciadorEnderecos\controllers\ServicesController.class
+br\com\rmenezes\gerenciadorEnderecos\model\Endereco.class
+br\com\rmenezes\gerenciadorEnderecos\config\ServletMVC.class
+br\com\rmenezes\gerenciadorEnderecos\service\EnderecoService.class
+br\com\rmenezes\gerenciadorEnderecos\service\impl\Main.class
+br\com\rmenezes\gerenciadorEnderecos\config\AppWebConfiguration.class
+br\com\rmenezes\gerenciadorEnderecos\dao\EnderecoDAOImpl.class
+br\com\rmenezes\gerenciadorEnderecos\model\ErrorMessage.class
+br\com\rmenezes\gerenciadorEnderecos\dao\EnderecoDAO.class
+br\com\rmenezes\gerenciadorEnderecos\entity\EnderecoEntity.class
+br\com\rmenezes\gerenciadorEnderecos\repository\EnderecoRepository.class
+br\com\rmenezes\gerenciadorEnderecos\controllers\HomeController.class
