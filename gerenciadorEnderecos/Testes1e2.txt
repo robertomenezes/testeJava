@@ -1,0 +1,14 @@
+Utilizei o JBoss Forge para criar a estrutura inicial do projeto baseada em Maven.
+Projeto desenvolvido em Spring Rest.
+Criei uma camada de Controller que chama a cadama Service, trata a requisção com o model e retorna resposta em formato JSON.
+Para as chamadas ajax via web, utilizei JQuery, onde fiz a validação de tela e tratamento da resposta JSON para popular os dados na tela.
+Criei dados mocados em um map.
+
+
+Considerações:
+Por estar trabalhando e não ter muito tempo disponível para o desenvolvimento deste projeto, acabei optando por formas mais rápidas de desenvolvimento;
+As validações poderiam ter sido feitas com Spring;
+A persistencia eu faria com JPA com camadas Business e Dao (inclusive iniciei algumas coisas como o persistence.xml, entity, business, dao...);
+Para o front poderia ser feito via AngularJS (que ainda não domino, mas consigo me virar);
+Apesar de saber da importância dos testes unitários, optei por deixá-lo de fora para concluir o desenvolvimento no prazo.
+
