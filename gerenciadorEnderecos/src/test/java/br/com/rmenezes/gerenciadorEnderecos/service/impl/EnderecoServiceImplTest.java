@@ -7,12 +7,10 @@ import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
-import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
 
 import br.com.rmenezes.gerenciadorEnderecos.config.AppWebConfiguration;
 import br.com.rmenezes.gerenciadorEnderecos.controllers.ServicesController;
