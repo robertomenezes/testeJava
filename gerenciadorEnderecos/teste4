@@ -1,0 +1,5 @@
+- O Browser dispara a requisição para a rede até o provedor de acesso;
+- Provedor interpreta qual o dominio solicitado e dispara o IP deste domino ao servidor do site;
+- O servidor interpreta a solicitação , o conteúdo do header do request, processa e retorna um response (página html) ao provedor de acesso;
+- O provedor de acesso retorna a resposta ao browser originário;
+- O browser interpreta a página e dispara novas requisições para carregar arquivos estáticos (que seguirão o mesmo fluxo inicial) e executa scripts da página.
